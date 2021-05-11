@@ -1,2 +1,4 @@
 dataset/
 .ipynb_checkpoints/
+converted_dataset.npy
+converted_test_dataset.npy
